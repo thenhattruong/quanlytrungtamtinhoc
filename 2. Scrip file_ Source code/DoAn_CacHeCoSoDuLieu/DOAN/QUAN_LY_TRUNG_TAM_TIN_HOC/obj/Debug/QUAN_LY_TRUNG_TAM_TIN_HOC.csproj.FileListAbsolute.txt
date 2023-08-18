@@ -1,0 +1,100 @@
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.exe.config
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.exe
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.pdb
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.csproj.AssemblyReference.cache
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.csproj.SuggestedBindingRedirects.cache
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.CapNhatDiem.resources
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.CapNhatGiaoVien.resources
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.CapNhatHocVien.resources
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.CapNhatKhoaHoc.resources
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.CapNhatLopHoc.resources
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.CapNhatPhongHoc.resources
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.DangNhap.resources
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.InBienLai.resources
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.Properties.Resources.resources
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.ThayDoiMatKhau.resources
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.ThongKeDanhSachChungChi.resources
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.ThongKeDanhSachLop.resources
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.ThongKeDanhSachThiLai.resources
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.ThongKeDiemHocVien.resources
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.ThongKeDiemLop.resources
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.TimKiemDiem.resources
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.TimKiemGiaoVien.resources
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.TimKiemHocVien.resources
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.csproj.GenerateResource.cache
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.csproj.CoreCompileInputs.cache
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.exe
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.pdb
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.GiaoDienManHinh.resources
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\ClosedXML.dll
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\ExcelNumberFormat.dll
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\Irony.dll
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\SixLabors.Fonts.dll
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\System.Buffers.dll
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\System.IO.Packaging.dll
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\System.Memory.dll
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\System.Numerics.Vectors.dll
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\XLParser.dll
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\ClosedXML.xml
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\ExcelNumberFormat.xml
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\SixLabors.Fonts.xml
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\System.Buffers.xml
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\System.IO.Packaging.xml
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\System.Memory.xml
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\System.Numerics.Vectors.xml
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.csproj.ResolveComReference.cache
+D:\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.csproj.CopyComplete
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.exe.config
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.exe
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.pdb
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\ClosedXML.dll
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\ExcelNumberFormat.dll
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\Irony.dll
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\SixLabors.Fonts.dll
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\System.Buffers.dll
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\System.IO.Packaging.dll
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\System.Memory.dll
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\XLParser.dll
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\ClosedXML.xml
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\ExcelNumberFormat.xml
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\SixLabors.Fonts.xml
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\System.Buffers.xml
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\System.IO.Packaging.xml
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\System.Memory.xml
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.CapNhatDiem.resources
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.CapNhatGiaoVien.resources
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.CapNhatHocVien.resources
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.CapNhatKhoaHoc.resources
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.CapNhatLopHoc.resources
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.CapNhatPhongHoc.resources
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.DangNhap.resources
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.GiaoDienManHinh.resources
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.InBienLai.resources
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.Properties.Resources.resources
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.ThayDoiMatKhau.resources
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.ThongKeDanhSachChungChi.resources
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.ThongKeDanhSachLop.resources
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.ThongKeDanhSachThiLai.resources
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.ThongKeDiemHocVien.resources
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.ThongKeDiemLop.resources
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.TimKiemDiem.resources
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.TimKiemGiaoVien.resources
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.TimKiemHocVien.resources
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.csproj.CopyComplete
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.exe
+C:\Users\PC\Desktop\Nhom3- Quản lí trung tâm tin học\2. Scrip file_ Source code\DoAn_CacHeCoSoDuLieu\DOAN\QUAN_LY_TRUNG_TAM_TIN_HOC\obj\Debug\QUAN_LY_TRUNG_TAM_TIN_HOC.pdb
